@@ -9036,25 +9036,7 @@
 		(uuid "011fe0d3-c1e3-4af0-a93f-5988cfc98f67")
 	)
 	(junction
-		(at 248.92 45.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "026ac84e-b8b2-4dd2-b675-8323c24fd778")
-	)
-	(junction
-		(at 248.92 40.64)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0bcafe80-ffba-4f1e-ae51-95a595b006db")
-	)
-	(junction
-		(at 248.92 55.88)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "34cdc1c9-c9e2-44c4-9677-c1c7d7efd83d")
-	)
-	(junction
-		(at 248.92 25.4)
+		(at 250.19 25.4)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "37b6c6d6-3e12-4736-912a-ea6e2bf06721")
@@ -9066,7 +9048,7 @@
 		(uuid "635cd179-e1f8-4876-ad88-14234047c974")
 	)
 	(junction
-		(at 248.92 30.48)
+		(at 250.19 30.48)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "86dc7a78-7d51-4111-9eea-8a8f7977eb16")
@@ -9084,18 +9066,6 @@
 		(uuid "bbecaeb1-04ce-48d2-976d-883010c7675e")
 	)
 	(junction
-		(at 248.92 60.96)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c49d23ab-146d-4089-864f-2d22b5b414b9")
-	)
-	(junction
-		(at 248.92 50.8)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "da25bf79-0abb-4fac-a221-ca5c574dfc29")
-	)
-	(junction
 		(at 34.29 34.29)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9108,7 +9078,7 @@
 		(uuid "e2d6d58e-3808-4dba-8ec2-f4a2eaff7190")
 	)
 	(junction
-		(at 248.92 35.56)
+		(at 250.19 35.56)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e32ee344-1030-4498-9cac-bfbf7540faf4")
@@ -9310,16 +9280,6 @@
 			(type default)
 		)
 		(uuid "0a30a89a-ee48-4e9c-8aa7-dad451e8d145")
-	)
-	(wire
-		(pts
-			(xy 248.92 40.64) (xy 248.92 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0c615350-52d2-4107-9ccf-96c94e336ea7")
 	)
 	(wire
 		(pts
@@ -9613,16 +9573,6 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 69.85) (xy 251.46 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "28ff9ef9-0423-49e3-8c66-7eb6ec945496")
-	)
-	(wire
-		(pts
 			(xy 254 96.52) (xy 254 86.36)
 		)
 		(stroke
@@ -9673,7 +9623,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 20.32) (xy 248.92 25.4)
+			(xy 250.19 20.32) (xy 250.19 25.4)
 		)
 		(stroke
 			(width 0)
@@ -9770,16 +9720,6 @@
 			(type default)
 		)
 		(uuid "38f8b0b3-8ffa-45bc-a4fd-d8e857bc44f9")
-	)
-	(wire
-		(pts
-			(xy 248.92 35.56) (xy 248.92 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3969223e-a20a-4525-925b-28d78e35f380")
 	)
 	(wire
 		(pts
@@ -9910,16 +9850,6 @@
 			(type default)
 		)
 		(uuid "44fb6ff5-66a5-430f-a711-1c86b2b9bf27")
-	)
-	(wire
-		(pts
-			(xy 248.92 55.88) (xy 248.92 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "47238702-37b9-49b1-9c25-de1c7af93133")
 	)
 	(wire
 		(pts
@@ -10070,46 +10000,6 @@
 			(type default)
 		)
 		(uuid "53c33ca2-d2d3-42ab-bc17-1216b453d7d5")
-	)
-	(polyline
-		(pts
-			(xy 246.38 16.51) (xy 246.38 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "56032b57-0d29-46b0-a506-99e21f429a0c")
-	)
-	(polyline
-		(pts
-			(xy 246.38 16.51) (xy 279.4 16.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "56032b57-0d29-46b0-a506-99e21f429a0d")
-	)
-	(polyline
-		(pts
-			(xy 279.4 16.51) (xy 279.4 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "56032b57-0d29-46b0-a506-99e21f429a0e")
-	)
-	(polyline
-		(pts
-			(xy 279.4 73.66) (xy 246.38 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "56032b57-0d29-46b0-a506-99e21f429a0f")
 	)
 	(wire
 		(pts
@@ -10263,7 +10153,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 30.48) (xy 248.92 35.56)
+			(xy 250.19 30.48) (xy 250.19 35.56)
 		)
 		(stroke
 			(width 0)
@@ -10310,16 +10200,6 @@
 			(type default)
 		)
 		(uuid "6f705ae1-7147-4e04-827e-4f29bec1a9f1")
-	)
-	(wire
-		(pts
-			(xy 248.92 45.72) (xy 248.92 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6f8beffa-e94e-427f-a223-160946d9e80c")
 	)
 	(wire
 		(pts
@@ -10410,16 +10290,6 @@
 			(type default)
 		)
 		(uuid "741c16c0-49b4-4dfa-aa34-046e3d7ab70a")
-	)
-	(wire
-		(pts
-			(xy 248.92 50.8) (xy 248.92 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "74205ddb-90a3-49dd-9b09-197176d31f66")
 	)
 	(wire
 		(pts
@@ -11253,7 +11123,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 25.4) (xy 248.92 30.48)
+			(xy 250.19 25.4) (xy 250.19 30.48)
 		)
 		(stroke
 			(width 0)
@@ -11833,7 +11703,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 60.96) (xy 248.92 69.85)
+			(xy 250.19 35.56) (xy 250.19 39.37)
 		)
 		(stroke
 			(width 0)
@@ -11911,6 +11781,18 @@
 		)
 		(uuid "fe581aad-6680-49c2-ad54-ba338b96af2a")
 	)
+	(rectangle
+		(start 246.38 13.97)
+		(end 283.21 44.45)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 4d2e56fd-57bd-4a2f-b9f3-d9f051dcd8df)
+	)
 	(text "LCD MODULE"
 		(exclude_from_sim no)
 		(at 149.86 80.01 0)
@@ -11979,7 +11861,7 @@
 	)
 	(text "Mounting Holes"
 		(exclude_from_sim no)
-		(at 246.38 15.24 0)
+		(at 247.65 16.51 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16469,73 +16351,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Screw_Terminal_01x01")
-		(at 254 55.88 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0e8ce973-c58f-4896-8477-2b239aff7a67")
-		(property "Reference" "M2_8"
-			(at 256.54 54.6099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Screw_Terminal_01x01"
-			(at 256.54 57.1499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 254 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 254 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 254 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ec7dee4d-1516-426a-a57b-c5dd33ec625a")
-		)
-		(instances
-			(project "main_pcb_hw5"
-				(path "/9d18f126-25a0-4767-9cfe-60845c6d7acd"
-					(reference "M2_8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:PWR_FLAG")
 		(at 38.1 93.98 90)
 		(unit 1)
@@ -16597,73 +16412,6 @@
 			(project "main_pcb_hw5"
 				(path "/9d18f126-25a0-4767-9cfe-60845c6d7acd"
 					(reference "#FLG03")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Screw_Terminal_01x01")
-		(at 254 45.72 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "19c93e15-782b-48f9-b61a-aece500b9162")
-		(property "Reference" "M2_6"
-			(at 256.54 44.4499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Screw_Terminal_01x01"
-			(at 256.54 46.9899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 254 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 254 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 254 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e77bcd9f-3c2f-47ab-a97f-1a65b876077c")
-		)
-		(instances
-			(project "main_pcb_hw5"
-				(path "/9d18f126-25a0-4767-9cfe-60845c6d7acd"
-					(reference "M2_6")
 					(unit 1)
 				)
 			)
@@ -16802,7 +16550,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x01")
-		(at 254 30.48 0)
+		(at 255.27 30.48 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16811,7 +16559,7 @@
 		(fields_autoplaced yes)
 		(uuid "22c8f2a5-ccff-4c6c-b5ae-d418024afbf8")
 		(property "Reference" "M2_3"
-			(at 256.54 29.2099 0)
+			(at 257.81 29.2099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16820,7 +16568,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_01x01"
-			(at 256.54 31.7499 0)
+			(at 257.81 31.7499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16829,7 +16577,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 254 30.48 0)
+			(at 255.27 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16838,7 +16586,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 254 30.48 0)
+			(at 255.27 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16847,7 +16595,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 254 30.48 0)
+			(at 255.27 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17419,73 +17167,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Screw_Terminal_01x01")
-		(at 254 40.64 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "440eda54-dd10-4936-bedb-eddc81b6294d")
-		(property "Reference" "M2_5"
-			(at 256.54 39.3699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Screw_Terminal_01x01"
-			(at 256.54 41.9099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 254 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 254 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 254 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ef2d314c-747e-478d-b54e-56b73de1758c")
-		)
-		(instances
-			(project "main_pcb_hw5"
-				(path "/9d18f126-25a0-4767-9cfe-60845c6d7acd"
-					(reference "M2_5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+BATT")
 		(at 252.73 107.95 90)
 		(unit 1)
@@ -17818,73 +17499,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Screw_Terminal_01x01")
-		(at 254 60.96 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "58ffa46f-59ff-4c53-88d3-ea0271c103d8")
-		(property "Reference" "M2_9"
-			(at 256.54 59.6899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Screw_Terminal_01x01"
-			(at 256.54 62.2299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 254 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 254 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 254 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7b9be4c8-9f9e-4e81-9191-a76dbc57e986")
-		)
-		(instances
-			(project "main_pcb_hw5"
-				(path "/9d18f126-25a0-4767-9cfe-60845c6d7acd"
-					(reference "M2_9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 38.1 113.03 0)
 		(unit 1)
@@ -18018,7 +17632,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x01")
-		(at 254 35.56 0)
+		(at 255.27 35.56 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18027,7 +17641,7 @@
 		(fields_autoplaced yes)
 		(uuid "68b07dc5-6825-4638-8daf-9f7ad9c48e44")
 		(property "Reference" "M2_4"
-			(at 256.54 34.2899 0)
+			(at 257.81 34.2899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18036,7 +17650,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_01x01"
-			(at 256.54 36.8299 0)
+			(at 257.81 36.8299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18045,7 +17659,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 254 35.56 0)
+			(at 255.27 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18054,7 +17668,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 254 35.56 0)
+			(at 255.27 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18063,7 +17677,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 254 35.56 0)
+			(at 255.27 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18274,73 +17888,6 @@
 			(project "main_pcb_hw5"
 				(path "/9d18f126-25a0-4767-9cfe-60845c6d7acd"
 					(reference "#FLG05")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Screw_Terminal_01x01")
-		(at 254 50.8 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7e586ae1-d47d-483c-9749-96bf0fee076c")
-		(property "Reference" "M2_7"
-			(at 256.54 49.5299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Screw_Terminal_01x01"
-			(at 256.54 52.0699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 254 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 254 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 254 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "202c7b06-f71f-4438-a4df-f6bfc9d7e65d")
-		)
-		(instances
-			(project "main_pcb_hw5"
-				(path "/9d18f126-25a0-4767-9cfe-60845c6d7acd"
-					(reference "M2_7")
 					(unit 1)
 				)
 			)
@@ -20692,7 +20239,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x01")
-		(at 254 25.4 0)
+		(at 255.27 25.4 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20701,7 +20248,7 @@
 		(fields_autoplaced yes)
 		(uuid "d543e44a-1637-4a90-bfa5-257578dace2b")
 		(property "Reference" "M2_2"
-			(at 256.54 24.1299 0)
+			(at 257.81 24.1299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20710,7 +20257,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_01x01"
-			(at 256.54 26.6699 0)
+			(at 257.81 26.6699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20719,7 +20266,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 254 25.4 0)
+			(at 255.27 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20728,7 +20275,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 254 25.4 0)
+			(at 255.27 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20737,7 +20284,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 254 25.4 0)
+			(at 255.27 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21266,16 +20813,15 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 251.46 69.85 90)
+		(at 250.19 39.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "de3a2d28-0f47-45a9-91f3-971c359d0136")
 		(property "Reference" "#PWR026"
-			(at 257.81 69.85 0)
+			(at 250.19 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21284,16 +20830,16 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 255.27 69.8499 90)
+			(at 251.46 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 251.46 69.85 0)
+			(at 250.19 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21302,7 +20848,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 251.46 69.85 0)
+			(at 250.19 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21311,7 +20857,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 251.46 69.85 0)
+			(at 250.19 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21675,7 +21221,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x01")
-		(at 254 20.32 0)
+		(at 255.27 20.32 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21684,7 +21230,7 @@
 		(fields_autoplaced yes)
 		(uuid "faa5946b-601d-4ca8-bb98-7d46d4f7daf3")
 		(property "Reference" "M2_1"
-			(at 256.54 19.0499 0)
+			(at 257.81 19.0499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21693,7 +21239,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_01x01"
-			(at 256.54 21.5899 0)
+			(at 257.81 21.5899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21702,7 +21248,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 254 20.32 0)
+			(at 255.27 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21711,7 +21257,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 254 20.32 0)
+			(at 255.27 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21720,7 +21266,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 254 20.32 0)
+			(at 255.27 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
