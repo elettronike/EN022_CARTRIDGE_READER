@@ -4,6 +4,11 @@
 	(generator_version "8.0")
 	(uuid "99c19cb6-4cbc-4441-8d59-bee9dbf63581")
 	(paper "A4")
+	(title_block
+		(title "Power supply section")
+		(date "2024-09-19")
+		(rev "A")
+	)
 	(lib_symbols
 		(symbol "Added:TPS2113PW"
 			(pin_names

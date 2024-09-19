@@ -29349,6 +29349,72 @@
 			(justify mirror)
 		)
 	)
+	(dimension
+		(type aligned)
+		(layer "F.Fab")
+		(uuid "397715b1-a1ed-45e4-81ac-416f25310889")
+		(pts
+			(xy 100 52) (xy 200.000001 52)
+		)
+		(height -10.966)
+		(gr_text "100,0000 mm"
+			(at 150.000001 39.884 0)
+			(layer "F.Fab")
+			(uuid "397715b1-a1ed-45e4-81ac-416f25310889")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type aligned)
+		(layer "F.Fab")
+		(uuid "940e67d3-f6ec-46a4-9061-d217a673224e")
+		(pts
+			(xy 102 50) (xy 102 150)
+		)
+		(height 12.16)
+		(gr_text "100,0000 mm"
+			(at 88.69 100 90)
+			(layer "F.Fab")
+			(uuid "940e67d3-f6ec-46a4-9061-d217a673224e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
 	(segment
 		(start 168.75 73.5)
 		(end 168.6 73.65)
