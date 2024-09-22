@@ -1643,7 +1643,7 @@
 			(pin input line
 				(at -33.02 -8.89 90)
 				(length 2.54)
-				(name "WR"
+				(name "~{WRITE}"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1661,7 +1661,7 @@
 			(pin input line
 				(at 35.56 -8.89 90)
 				(length 2.54)
-				(name "RST_CS2"
+				(name "RST_~{CS2}"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1679,7 +1679,7 @@
 			(pin input line
 				(at 38.1 -8.89 90)
 				(length 2.54)
-				(name "AUD_IRQ"
+				(name "IRQ_AUDIOIN"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1715,7 +1715,7 @@
 			(pin input line
 				(at -30.48 -8.89 90)
 				(length 2.54)
-				(name "RD"
+				(name "~{READ}"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1733,7 +1733,7 @@
 			(pin input line
 				(at -27.94 -8.89 90)
 				(length 2.54)
-				(name "CS1"
+				(name "~{CS1}"
 					(effects
 						(font
 							(size 1.27 1.27)
