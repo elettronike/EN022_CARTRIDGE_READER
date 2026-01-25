@@ -63,8 +63,12 @@ Since by default it will keep fetching instructions from the cartridge to contin
 8-bit with variable size: This is the place where the cartridge RAM (SRAM or Flash Memory) is accessed.
 This is strictly an 8-bit bus (the CPU will see ‘garbage’ in the unused bits) and for this reason, Nintendo states that it can only be operated through their libraries.
 
+## Game pack Detection Switch
+
+
 ## References
 
 [Game Boy Advance Architecture](https://www.copetti.org/writings/consoles/game-boy-advance/)
 [Game Pak](http://hardwarebook.info/Game_Pak)
 [GBATEK](https://problemkaputt.de/gbatek.htm#gbatechnicaldata) Gameboy Advance / Nintendo DS / DSi / 3DS - Technical Info - Extracted from no$gba version 3.05
+[GBxCartRead ](https://www.insidegadgets.com/2016/12/06/gbxcartread-part-1-design-and-testing-gameboy-carts/)– Part 1: Design and Testing Gameboy Carts
